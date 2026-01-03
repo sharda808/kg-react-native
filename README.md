@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://reactnative.dev/">
-Best  of Lock sharda
+Best  of Luck sharda
   </a>
 </h1>
 
